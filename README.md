@@ -6,8 +6,15 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
  
+<h1 align="center">🔥 Streak Stats (Daily Contributions)</h1>
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tibrahi&theme=gruvbox)
 
 <!---->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tibrahi&color=blue)
+
 <div align="center">
   <a href="https://github.com/Tibrahi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
