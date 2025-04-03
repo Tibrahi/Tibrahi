@@ -61,9 +61,11 @@
 
 - 💬 Ask me about **Web development, Education, business, Scratch Programming, Multimedia**.
 
-- 📫 How to reach me **ibrahimtuyizere2@gmail.com**.
+- 📫 How to reach me **[Email](ibrahimtuyizere2@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/)**
   
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
+
+- - ⚡ Fun fact: *I love solving coding challenges and exploring new technologies!*
 
  <h3 align="center">Connect with me</h3>  
 <p align="center">
