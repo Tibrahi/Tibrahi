@@ -7,13 +7,13 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
  
 <h1 align="center">🔥 Streak Stats (Daily Contributions)</h1>
+
 ## 🔥 GitHub Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tibrahi&theme=gruvbox)
 
 <!---->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tibrahi&color=blue)
 
 <div align="center">
   <a href="https://github.com/Tibrahi">
@@ -88,5 +88,7 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="20" width="20" />
 </a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tibrahi&color=blue)
 
 <h5 align="center">©️ TUYIZERE IBRAHIM 2025</h5>
