@@ -67,11 +67,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rescenic" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhridwanhakim" height="20" width="20" /></a>
 <a href="https://www.instagram.com/tibrah1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rescen.ic" height="20" width="20" /></a>
-<a href="https://t.me/your_username" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="20" width="20" />
+<a href="https://t.me/your_username" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="20" width="20" />
 </a>
-
-"></a>
 </p>
 
 <h5 align="center">©️ TUYIZERE IBRAHIM 2025</h5>
