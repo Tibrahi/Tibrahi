@@ -4,6 +4,11 @@
       
  <h3 align="center">My GitHub Stats</h3> 
 
+    <h1>📊 GitHub Stats</h1>
+  
+        <p 🏆 GitHub Trophies</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
+
 <!---->
 <div align="center">
   <a href="https://github.com/Tibrahi">
@@ -67,12 +72,6 @@
 
 - - ⚡ Fun fact: *I love solving coding challenges and exploring new technologies!*
  
-  <h1>📊 GitHub Stats</h1>
-  
-        <p 🏆 GitHub Trophies</p>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
-
-
  <h3 align="center">Connect with me</h3>  
 <p align="center">
 <a href="https://x.com/BaddestIbrah" target="_blank">
