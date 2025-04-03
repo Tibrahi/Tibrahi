@@ -3,6 +3,7 @@
 <h4 align="center">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</h4>
 <h1 align="center">📊 GitHub Stats</h1>
 ## 🏆 GitHub Trophies
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
  
 
