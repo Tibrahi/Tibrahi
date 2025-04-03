@@ -14,7 +14,7 @@
 </div>
 
 
- <h3 align="center">Languages and technologies</h3> 
+ <h3 align="center">🛠️ Tech Stack</h3> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,6 +66,12 @@
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
 
 - - ⚡ Fun fact: *I love solving coding challenges and exploring new technologies!*
+ 
+  <h1>📊 GitHub Stats</h1>
+  
+        <p 🏆 GitHub Trophies</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
+
 
  <h3 align="center">Connect with me</h3>  
 <p align="center">
