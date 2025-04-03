@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bizimungu Pascal</h1>
+<h1 align="center">Hi 👋, I'm Tuyizere Ibrahim</h1>
 <h3 align="center">Software Developer</h3>
 <h4 align="center">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</h4>
       
@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **Web development, Education, business, Scratch Programming, Multimedia**.
 
-- 📫 How to reach me **bizip04@gmail.com**.
+- 📫 How to reach me **ibrahimtuyizere2@gmail.com**.
   
 - ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
 
