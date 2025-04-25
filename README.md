@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tuyizere Ibrahim</h1>
 <h3 align="center">Software Developer</h3>
-<h4 align="center">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</h4>
+<h4 align="center">I’m Tuyizere Ibrahim, a passionate full-stack web developer based in Kigali, Rwanda. I specialize in building scalable, community-centered, and impact-driven web applications. As the founder of Impact4Rwanda, I aim to create digital solutions that address local challenges .
+
+I work comfortably with modern tools . I’m also deeply interested in clean UI/UX, system design, and backend logic.
+
+I enjoy learning new technologies, collaborating on open-source projects, and solving real-world problems through code. Whether it's building an educational platform, automating business processes, or enhancing community development through tech — I’m all in.
+
+Let’s build impactful software that makes a difference.</h4>
 <h1 align="center">📊 GitHub Stats</h1>
 ## 🏆 GitHub Trophies
 
