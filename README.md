@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tuyizere Ibrahim</h1>
-<h3 align="center">Software Developer</h3>
-<h4 align="center">I’m Tuyizere Ibrahim, a passionate full-stack web developer based in Kigali, Rwanda. I specialize in building scalable, community-centered, and impact-driven web applications. As the founder of Impact4Rwanda, I aim to create digital solutions that address local challenges .
-
-I work comfortably with modern tools . I’m also deeply interested in clean UI/UX, system design, and backend logic.
-
-I enjoy learning new technologies, collaborating on open-source projects, and solving real-world problems through code. Whether it's building an educational platform, automating business processes, or enhancing community development through tech — I’m all in.
-
-Let’s build impactful software that makes a difference.</h4>
 <h1 align="center">📊 GitHub Stats</h1>
 ## 🏆 GitHub Trophies
 
@@ -54,21 +45,7 @@ Let’s build impactful software that makes a difference.</h4>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ---
-- 🔭 I’m currently working as a **Job Searching! :tada::muscle::mortar_board:**.
 
-- 🌱 I’m currently learning **full-stack web developer **.
-
-- 👯 I’m looking to collaborate on **Any open source project**.
-
-- 🤝 I’m looking for help with **fundraising**.
-
-- 💬 Ask me about **Web development, Education, business, Scratch Programming, Multimedia**.
-
-- 📫 How to reach me **[Email](ibrahimtuyizere2@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/)**
-  
-- ⚡ Fun fact **I am a philosophy of my life, I love traveling in fact I am a traveller expert**
-
-- - ⚡ Fun fact: *I love solving coding challenges and exploring new technologies!*
  
  <h3 align="center">Connect with me</h3>  
 <p align="center">
