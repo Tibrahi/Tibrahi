@@ -1,5 +1,4 @@
-<h1 align="center">📊 GitHub Stats</h1>
-## 🏆 GitHub Trophies
+<h1 align="center">📊 🏆 GitHub Trophies</h1>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=gruvbox&margin-w=15)
  
