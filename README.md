@@ -57,11 +57,11 @@ Currently expanding my horizons into **Web3 & Functional Programming**.
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <br/><br/>
-  <a href="https://t.me/Tibrahi">
+  <a href="https://t.me/@BlackDealer2">
     <img src="https://img.shields.io/badge/Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
   </a>
   <br/><br/>
-  <a href="https://wa.me/YOUR_NUMBER">
+  <a href="https://wa.me/+250725931245">
     <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
   <br/><br/>
