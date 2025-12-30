@@ -49,11 +49,11 @@ Currently expanding my horizons into **Web3 & Functional Programming**.
 <h3>📲 Let's Connect</h3>
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <br/><br/>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ibrahimtuyizere2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <br/><br/>
@@ -65,7 +65,7 @@ Currently expanding my horizons into **Web3 & Functional Programming**.
     <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
   <br/><br/>
-  <a href="https://stackoverflow.com/users/YOUR_ID">
+  <a href="https://stackoverflow.com/users/23764077">
     <img src="https://img.shields.io/badge/StackOverflow-007ACC?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30"/>
   </a>
 </p>
@@ -98,8 +98,7 @@ Currently expanding my horizons into **Web3 & Functional Programming**.
 
 <br/><br/>
 
-<h3>📊 Coding Frequency</h3>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tibrahi&layout=compact&theme=transparent&title_color=007ACC&text_color=ffffff&hide_border=true" alt="WakaTime" width="100%"/>
+
 
 </td>
 </tr>
