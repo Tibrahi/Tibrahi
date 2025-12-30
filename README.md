@@ -1,71 +1,105 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm Ibrahim | <span style="color:#007ACC">@Tibrahi</span>
-
-**Fullstack Developer | Architecting Scalable Digital Solutions**
-
-<a href="https://tibrahi.github.io">
-  <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=007ACC" alt="Portfolio" height="40" />
+<a href="https://github.com/Tibrahi">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=45&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=HI,+I'M+IBRAHIM;FULLSTACK+DEVELOPER;BLOCKCHAIN+ENTHUSIAST;SOLVING+DIGITAL+PROBLEMS" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_THE_FUTURE-000000?style=for-the-badge&labelColor=007ACC" />
 
 <br/><br/>
 
+**I bridge the gap between complex backend logic and seamless frontend experiences.**<br/>
+Currently expanding my horizons into **Web3 & Functional Programming**.
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&bg_color=000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
 </div>
+
+<br/>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-    
-<h3>👨‍💻 About Me</h3>
+    <td width="45%" valign="top">
+      
+<h3>🚀 What I Serve</h3>
+
+> I don't just write code; I provide solutions.
+
 <p>
-  I am a passionate developer focused on building clean, efficient web applications. Based on my work in <b>Web Design</b> and <b>Python</b> logic, I bridge the gap between strong backend systems and beautiful frontend interfaces.
+  <img src="https://img.shields.io/badge/01-Frontend_Architecture-000000?style=flat-square&logo=react&logoColor=007ACC" /><br/>
+  Building responsive, pixel-perfect interfaces using modern frameworks.
 </p>
 
-<h3>🏆 Featured Projects</h3>
+<p>
+  <img src="https://img.shields.io/badge/02-Backend_Scalability-000000?style=flat-square&logo=node.js&logoColor=007ACC" /><br/>
+  Designing robust APIs and database structures for high-performance apps.
+</p>
 
-> **[Web-Design-And-Dev-Project](https://github.com/Tibrahi/Web-Design-And-Dev-Project)**<br/>
-> A modern web interface showcasing responsive design principles using HTML5 & CSS3.
+<p>
+  <img src="https://img.shields.io/badge/03-DevOps_&_Cloud-000000?style=flat-square&logo=docker&logoColor=007ACC" /><br/>
+  Streamlining deployment pipelines and server management.
+</p>
 
-> **[python-test](https://github.com/Tibrahi/python-test)**<br/>
-> Backend logic and testing scripts demonstrating core Python proficiency and algorithm solving.
+<br/>
 
-<h3>📊 GitHub Stats</h3>
-<a href="https://github.com/Tibrahi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&theme=transparent&title_color=007ACC&text_color=333333&icon_color=000000&hide_border=true&count_private=true" width="100%" alt="Tibrahi Stats" />
-</a>
+<h3>📲 Let's Connect</h3>
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <br/><br/>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <br/><br/>
+  <a href="https://t.me/Tibrahi">
+    <img src="https://img.shields.io/badge/Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+  </a>
+  <br/><br/>
+  <a href="https://wa.me/YOUR_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+  </a>
+  <br/><br/>
+  <a href="https://stackoverflow.com/users/YOUR_ID">
+    <img src="https://img.shields.io/badge/StackOverflow-007ACC?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30"/>
+  </a>
+</p>
 
 </td>
 
-<td width="50%" valign="top" style="padding-left: 20px;">
+<td width="55%" valign="top" style="padding-left: 20px;">
 
-<h3>🛠️ Tech Stack</h3>
+<h3>⚡ Tech Arsenal (Proficient)</h3>
+<img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-007ACC?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-007ACC?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-007ACC?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+<br/><br/>
 
-<h3>📈 Skill Proficiency</h3>
+<h3>🔮 Currently Exploring (Learning)</h3>
+<img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Aiken-000000?style=for-the-badge&logo=cardano&logoColor=white" />
 
-<div align="left">
-  <b>Frontend Engineering</b><br/>
-  <img src="https://progress-bar.dev/100/?scale=100&title=Mastery&width=280&color=007ACC&suffix=%" alt="Frontend" />
-  <br/>
-  
-  <b>Backend Logic (Python/Node)</b><br/>
-  <img src="https://progress-bar.dev/95/?scale=100&title=Advanced&width=280&color=000000&suffix=%" alt="Backend" />
-  <br/>
+<br/><br/>
 
-  <b>UI/UX Design</b><br/>
-  <img src="https://progress-bar.dev/100/?scale=100&title=Creative&width=280&color=007ACC&suffix=%" alt="Design" />
-</div>
-
-<h3>⚡ Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibrahi&layout=compact&theme=transparent&title_color=007ACC&text_color=333333&hide_border=true" width="100%" />
+<h3>📊 Coding Frequency</h3>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tibrahi&layout=compact&theme=transparent&title_color=007ACC&text_color=ffffff&hide_border=true" alt="WakaTime" width="100%"/>
 
 </td>
 </tr>
@@ -74,29 +108,5 @@
 <br/>
 
 <div align="center">
-  
-<h3>📫 Connect With Me</h3>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/Tibrahi">
-  <img src="https://img.shields.io/badge/Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://wa.me/YOUR_NUMBER">
-  <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/YOUR_ID">
-  <img src="https://img.shields.io/badge/Stack_Overflow-007ACC?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
-<a href="https://github.com/Tibrahi">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=60&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=80&section=footer" width="100%"/>
 </div>
