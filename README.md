@@ -5,20 +5,21 @@
 <br/>
 
 <a href="https://github.com/Tibrahi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=50&duration=2500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=70&lines=HI,+I'M+IBRAHIM;FULLSTACK+DEVELOPER;BLOCKCHAIN+ENTHUSIAST;BUILDING+THE+FUTURE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=50&duration=2500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=70&lines=HI,+I'M+IBRAHIM;FULLSTACK+ENGINEER;BLOCKCHAIN+INNOVATOR;DELIVERING+EXCELLENCE..." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_THE_FUTURE-000000?style=for-the-badge&labelColor=007ACC&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-READY_TO_BUILD-000000?style=for-the-badge&labelColor=007ACC&logo=linkedin&logoColor=white" />
 
 <br/><br/>
 
 <h3 align="center">
-  Running complex backend logic to power <span style="color: #007ACC;">seamless frontend experiences.</span>
+  Architecting <span style="color: #007ACC;">Scalable Digital Ecosystems</span> for the Modern Web.
 </h3>
 <p align="center">
-  <i>Currently expanding horizons into Web3 & Functional Programming.</i>
+  I bridge the gap between <b>complex backend logic</b> and <b>intuitive frontend experiences</b>.<br/>
+  <i>Focusing on Performance, Security, and Web3 Innovation.</i>
 </p>
 
 <br/>
@@ -31,56 +32,55 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
       
-<h3>🚀 What I Serve</h3>
+<h3>🚀 What I Bring to the Table</h3>
 
-> *I don't just write code; I provide solutions.*
+> *I don't just write code; I engineer solutions.*
 
-<p>
-  <img src="https://img.shields.io/badge/01-Frontend_Architecture-000000?style=flat-square&logo=react&logoColor=007ACC" /><br/>
-  Building responsive, pixel-perfect interfaces using modern frameworks.
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/UI%2FUX_Engineering-000000?style=flat-square&logo=react&logoColor=007ACC" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Crafting+responsive,+pixel-perfect+interfaces.;Using+modern+frameworks+like+React+%26+Next.js." alt="Typing SVG" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/02-Backend_Scalability-000000?style=flat-square&logo=node.js&logoColor=007ACC" /><br/>
-  Designing robust APIs and database structures for high-performance apps.
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Backend_Architecture-000000?style=flat-square&logo=node.js&logoColor=007ACC" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Designing+scalable+APIs+and+database+schemas.;Optimizing+server+performance+for+high+load." alt="Typing SVG" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/03-DevOps_&_Cloud-000000?style=flat-square&logo=docker&logoColor=007ACC" /><br/>
-  Streamlining deployment pipelines and server management.
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-000000?style=flat-square&logo=docker&logoColor=007ACC" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Streamlining+CI%2FCD+pipelines+and+deployment.;Managing+cloud+infrastructure+securely." alt="Typing SVG" />
+</div>
 
 <br/>
 
-<h3>📲 Let's Connect</h3>
+<h3>📲 Let's Build Something</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <br/><br/>
   <a href="mailto:ibrahimtuyizere2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
   <br/><br/>
   <a href="https://t.me/BlackDealer2">
-    <img src="https://img.shields.io/badge/Telegram-007ACC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-Chat-007ACC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
   </a>
   <br/><br/>
   <a href="https://wa.me/+250725931245">
-    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
-  </a>
-  <br/><br/>
-  <a href="https://stackoverflow.com/users/23764077">
-    <img src="https://img.shields.io/badge/StackOverflow-007ACC?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Message-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </p>
 
 </td>
 
-<td width="55%" valign="top" style="padding-left: 20px;">
+<td width="50%" valign="top" style="padding-left: 10px;">
 
 <h3>⚡ Tech Arsenal (Proficient)</h3>
 <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -95,9 +95,9 @@
 
 <br/><br/>
 
-<h3>🔮 Loading Skills... (In Progress)</h3>
-<img src="https://img.shields.io/badge/Rust-Loading...-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=b7410e" />
-<img src="https://img.shields.io/badge/Java-Loading...-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=e76f00" />
+<h3>🔮 Expanding Horizons</h3>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=white" />
