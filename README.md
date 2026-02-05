@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Tibrahi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=48&duration=2800&pause=1000&color=007ACC&center=true&vCenter=true&width=750&height=70&lines=HI,+I'M+IBRAHIM;FULL-STACK Developer;BLOCKCHAIN+SYSTEMS;BUILDING+SCALABLE+SOLUTIONS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=48&duration=2800&pause=1000&color=007ACC&center=true&vCenter=true&width=750&height=70&lines=HI,+I'M+IBRAHIM;FULL-STACK Developer;BLOCKCHAIN+SYSTEMS+;BUILDING+SCALABLE+SOLUTIONS" alt="Typing SVG" />
 </a>
 
 <br/>
