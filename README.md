@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Tibrahi">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=50&duration=2500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=70&lines=HI,+I'M+IBRAHIM;FULLSTACK+ENGINEER;BLOCKCHAIN+INNOVATOR;DELIVERING+EXCELLENCE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=500&size=44&duration=2600&pause=900&color=0A66C2&center=true&vCenter=true&width=720&height=70&lines=Hi,+I'm+Tuyizere+Ibrahim;Full-Stack+Engineer;Blockchain-Focused+System+Builder;Engineering+Reliable+Digital+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,22 +42,29 @@
 > *I don't just write code; I engineer solutions.*
 
 <div align="left">
-  <img src="https://img.shields.io/badge/UI%2FUX_Engineering-000000?style=flat-square&logo=react&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Engineering-000000?style=flat-square&logo=react&logoColor=0A66C2" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Crafting+responsive,+pixel-perfect+interfaces.;Using+modern+frameworks+like+React+%26+Next.js." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=450&lines=Crafting+responsive,+intuitive+interfaces.;Leveraging+React+%26+Next.js+for+scalable+frontend+solutions." alt="Typing SVG" />
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Backend_Architecture-000000?style=flat-square&logo=node.js&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-000000?style=flat-square&logo=node.js&logoColor=0A66C2" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Designing+scalable+APIs+and+database+schemas.;Optimizing+server+performance+for+high+load." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=450&lines=Building+scalable+APIs+with+Node.js+%26+Express.;Designing+robust+databases+with+MySQL+%26+MongoDB." alt="Typing SVG" />
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-000000?style=flat-square&logo=docker&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-000000?style=flat-square&logo=docker&logoColor=0A66C2" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=435&lines=Streamlining+CI%2FCD+pipelines+and+deployment.;Managing+cloud+infrastructure+securely." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=450&lines=Managing+CI/CD+pipelines+for+fast,+reliable+deployments.;Securing+and+scaling+cloud+infrastructure+with+Docker+%26+AWS." alt="Typing SVG" />
 </div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Blockchain_%26_Web3-000000?style=flat-square&logo=ethereum&logoColor=0A66C2" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=14&duration=3000&pause=1000&color=333333&width=450&lines=Developing+smart+contracts+and+decentralized+applications.;Exploring+Web3+integration+for+modern+digital+systems." alt="Typing SVG" />
+</div>
+
 
 <br/>
 
