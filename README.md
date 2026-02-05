@@ -71,7 +71,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/tuyizere-ibrahim-89ba8b275/">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge"/>
   </a>
   <br/><br/>
   <a href="mailto:ibrahimtuyizere2@gmail.com">
@@ -91,7 +91,7 @@
 
 <td width="45%" valign="top" style="padding-left: 15px;">
 
-<h3>⚡ Technical Arsenal</h3>
+<h3>⚡ Technical Tools</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
