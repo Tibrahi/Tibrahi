@@ -37,14 +37,17 @@
 
 <h2 align="center">📊 GitHub Statistics & Analytics</h2>
 
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&bg_color=000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
 
-
+<br/>
 <br/>
 
 <div align="center">
   <!-- Streak Stats & Trophies (Using stable built-in themes) -->
   <img src="https://streak-stats.demolab.com/?user=Tibrahi&theme=dark&hide_border=true" alt="Streak Stats" width="49%"/>
- 
 </div>
 
 <br/>
