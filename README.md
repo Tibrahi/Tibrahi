@@ -37,25 +37,14 @@
 
 <h2 align="center">📊 GitHub Statistics & Analytics</h2>
 
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&bg_color=000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <!-- Standard Stats & Top Languages (Using pure custom colors for stability) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibrahi&layout=compact&title_color=007ACC&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Languages" width="49%"/>
-</div>
 
 <br/>
 
 <div align="center">
   <!-- Streak Stats & Trophies (Using stable built-in themes) -->
   <img src="https://streak-stats.demolab.com/?user=Tibrahi&theme=dark&hide_border=true" alt="Streak Stats" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=darkhub&no-frame=true&margin-w=5&column=7" alt="Trophies" width="80%"/>
+ 
 </div>
 
 <br/>
