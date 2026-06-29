@@ -39,32 +39,23 @@
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&bg_color=000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true&hide_title=false&title_color=007ACC" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tibrahi&bg_color=000000&color=007ACC&line=007ACC&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Standard Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=000000" alt="Tibrahi's GitHub stats" width="49%"/>
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Tibrahi&theme=transparent&hide_border=true&stroke=0000&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&text_color=ffffff&bg_color=000000" alt="Tibrahi's GitHub streak" width="49%"/>
+  <!-- Standard Stats & Top Languages (Using pure custom colors for stability) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Tibrahi&show_icons=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibrahi&layout=compact&title_color=007ACC&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top Languages" width="49%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tibrahi&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff&bg_color=000000" alt="Top Languages" width="40%"/>
-  <!-- Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=transparent&no-frame=true&no-bg=true&margin-w=4&column=7&title=-,MultiLanguage,Commits,Repositories,Followers,Reviews,PullRequest" alt="Trophies" width="55%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Lowlighter Metrics (The Ultimate Pro Stats Card) -->
-  <img src="https://metrics.lecoq.io/Tibrahi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&introduction=1&introduction.title=1&followup=1&followup.sections=repositories&activities=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=1&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&people=1&people.limit=24&people.identicons=false&people.types=followers&people.shuffle=true&repositories=1&repositories.forks=false&repositories.batch=100&lines=1&lines.sections=base&lines.limit=100&config.timezone=Africa%2FKigali&config.order=desc" alt="Comprehensive GitHub Metrics" width="80%"/>
+  <!-- Streak Stats & Trophies (Using stable built-in themes) -->
+  <img src="https://streak-stats.demolab.com/?user=Tibrahi&theme=dark&hide_border=true" alt="Streak Stats" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tibrahi&theme=darkhub&no-frame=true&margin-w=5&column=7" alt="Trophies" width="80%"/>
 </div>
 
 <br/>
